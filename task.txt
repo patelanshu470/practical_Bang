@@ -1,0 +1,5 @@
+1. Create a new form (name,email,phone)
+2. You need to perform validations using laravel.
+3. Duplicate entry validation 
+4. real time validations (javascript or JQuery) if email or phone already exist 
+5. create new table customer_addresses to store the new fields (Address and Pincode)
